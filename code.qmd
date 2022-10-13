@@ -9,6 +9,6 @@ And here is some code.
 
 
 ## Languages
-- `R` for working with data
-- `Julia` for working with numbers
-- `Python` for everything else
+- R for working with data
+- Julia for working with numbers
+- Python for everything else

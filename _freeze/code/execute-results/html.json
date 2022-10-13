@@ -1,7 +1,7 @@
 {
-  "hash": "eeda8c564953396d25f9d114e888caac",
+  "hash": "eeb20a38cd997e0d737f53d8919a1bc4",
   "result": {
-    "markdown": "---\ntitle: \"code\"\n---\n\n\n\n\nAnd here is some code.\n\n\n\n## Languages\n- `R` for working with data\n- `Julia` for working with numbers\n- `Python` for everything else",
+    "markdown": "---\ntitle: \"code\"\n---\n\n\n\n\nAnd here is some code.\n\n\n\n## Languages\n- R for working with data\n- Julia for working with numbers\n- Python for everything else",
     "supporting": [
       "code_files"
     ],
