@@ -1,8 +1,10 @@
 {
-  "hash": "0db483cd5846b07ef0efbec06d736870",
+  "hash": "eeda8c564953396d25f9d114e888caac",
   "result": {
-    "markdown": "---\ntitle: \"code\"\n---\n\n\nAnd here is some code.\n",
-    "supporting": [],
+    "markdown": "---\ntitle: \"code\"\n---\n\n\n\n\nAnd here is some code.\n\n\n\n## Languages\n- `R` for working with data\n- `Julia` for working with numbers\n- `Python` for everything else",
+    "supporting": [
+      "code_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

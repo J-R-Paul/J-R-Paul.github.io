@@ -2,5 +2,13 @@
 title: "code"
 ---
 
+
+
 And here is some code.
 `r library(knitr)`
+
+
+## Languages
+- `R` for working with data
+- `Julia` for working with numbers
+- `Python` for everything else
