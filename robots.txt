@@ -1,1 +1,1 @@
-Sitemap: https://github.com/J-R-Paul/J-R-Paul.github.io/sitemap.xml
+Sitemap: https://J-R-Paul.github.io/sitemap.xml
