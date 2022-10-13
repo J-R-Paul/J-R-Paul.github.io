@@ -1,0 +1,14 @@
+{
+  "hash": "0db483cd5846b07ef0efbec06d736870",
+  "result": {
+    "markdown": "---\ntitle: \"code\"\n---\n\n\nAnd here is some code.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
