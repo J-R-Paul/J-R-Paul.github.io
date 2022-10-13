@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "research",
-    "section": "",
-    "text": "Here I will put some of my research."
-  },
-  {
     "objectID": "code.html",
     "href": "code.html",
     "title": "code",
@@ -19,6 +12,13 @@
     "title": "code",
     "section": "Languages",
     "text": "Languages\n\nR for working with data\nJulia for working with numbers\nPython for everything else"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "research",
+    "section": "",
+    "text": "Here I will put some of my research."
   },
   {
     "objectID": "index.html",
