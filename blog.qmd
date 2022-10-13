@@ -1,5 +1,6 @@
 ---
 title: "blog"
+theme: litera
 listing:
   contents: posts
   sort: "date desc"

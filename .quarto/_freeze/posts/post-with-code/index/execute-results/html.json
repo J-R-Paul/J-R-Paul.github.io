@@ -1,7 +1,7 @@
 {
-  "hash": "6e7bd7d82371a513f0bd12564ffdec2b",
+  "hash": "5b566712b00a2aaf814d3578bc580618",
   "result": {
-    "markdown": "---\ntitle: \"Post With Code\"\nauthor: \"Harlow Malloc\"\ndate: \"2022-09-15\"\ncategories: [news, code, analysis]\nimage: \"image.jpg\"\n---\n\n\nThis is a post with executable code.\n\n\n::: {.cell}\n\n```{.r .cell-code}\nplot(1:10)\n```\n\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n",
+    "markdown": "---\ntitle: \"Post With Code\"\nauthor: \"Joseph Paul\"\ndate: \"2022-09-15\"\ncategories: [news, code, analysis]\nimage: \"image.jpg\"\ntheme: litera\n---\n\n\nThis is a post with executable code.\n\n## Parametric Plots\n\nPlot function pair (x(u), y(u)). \n\n\n::: {.cell}\n\n```{.r .cell-code}\npacman::p_load(ggplot2)\n\nf <- function(x) sin(2*x)\nxs <- seq(1, 2 * 3.14, 0.01)\nys <- sapply(xs, f)\n\nggplot(data.frame(x = xs, y = ys)) + geom_line(aes(x, y)) + theme_bw()\n```\n\n::: {.cell-output-display}\n![Parametric Plots](index_files/figure-html/fig-parametric-1.png){#fig-parametric width=672}\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],
