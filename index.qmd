@@ -1,0 +1,17 @@
+---
+title: "Joseph Paul"
+
+image: profile.jpg
+about:
+  template: trestles
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com
+
+---
+
+This is the contents of the about page for my blog.
+Hello, my name is Joseph Paul. I am a PhD researcher at Heriot-Watt University studying Economics.
+
+My research is princiappally focused on the economics of algorithm and machine learning bias. I am also interested in numerical methods generally and bayesian econometrics.

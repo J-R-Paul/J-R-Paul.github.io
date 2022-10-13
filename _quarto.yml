@@ -1,0 +1,62 @@
+project:
+  type: website
+
+website:
+  title: "Joseph Paul"
+  # navbar:
+    # left:
+      # - href: index.qmd
+      #   text: "Home"
+      #   file: index.qmd
+      # - about.qmd
+      # - research.qmd
+      # - blog.qmd
+      # - code.qmd
+  reader-mode: false
+
+  sidebar: 
+    style: "floating"
+    # search: true
+    border: false
+    pinned: true
+    contents:
+      - about.qmd
+      - research.qmd
+      - blog.qmd
+      - code.qmd
+    tools:
+      - icon: twitter
+        href: https://twitter.com
+      - icon: email
+        href: jp52@hw.ac.uk
+      - icon: github
+        menu:
+          - text: Source Code
+            url:  https://code.com
+          - text: Report a Bug
+            url:  https://bugs.com
+    
+  page-footer: 
+    left: "Copyright 2022, Joseph Paul" 
+    right: 
+      - icon: github
+        href: https://github.com/
+      - icon: twitter 
+        href: https://twitter.com/ 
+    border: false
+    background: light
+
+  search: 
+    location: sidebar
+    type: overlay
+      
+format:
+  html:
+    theme: 
+      light: cosmo #cosmo #cosmo
+      dark: quartz #slate
+    css: styles.css
+    toc: true
+
+
+

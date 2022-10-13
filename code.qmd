@@ -1,0 +1,6 @@
+---
+title: "code"
+---
+
+And here is some code.
+`r library(knitr)`
