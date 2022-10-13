@@ -4,11 +4,11 @@ title: "CV"
 
 ## Education
 
-Heriot-Watt University  | Edinburgh, UK | PhD in Economics  | Sep 2022 - 
+Heriot-Watt University    | Edinburgh, UK | PhD in Economics                | Sep 2022 - 
 
-University Of Edinburgh | Edinburgh, UK | MSc in Economics (Econometrics) | Sep 2021 - August 2022
+University Of Edinburgh   | Edinburgh, UK | MSc in Economics (Econometrics) | Sep 2021 - August 2022
 
-Heriot-Watt University  | Edinburgh, UK | MA in Economics   | Sep 2017 - June 2021
+Heriot-Watt University    | Edinburgh, UK | MA in Economics                 | Sep 2017 - June 2021
 
 <!-- ## Experience
 

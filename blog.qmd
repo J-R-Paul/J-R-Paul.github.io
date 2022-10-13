@@ -1,5 +1,5 @@
 ---
-title: "blog"
+title: "writing"
 theme: litera
 listing:
   contents: posts
@@ -8,4 +8,4 @@ listing:
   # categories: true
 ---
 
-This is an example of my blog.
+I will put some writing here when I have some.

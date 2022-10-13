@@ -1,0 +1,16 @@
+{
+  "hash": "6a1d9fc1512cb133581b7db82466ab5e",
+  "result": {
+    "markdown": "---\ntitle: \"Post With Code\"\nauthor: \"Joseph Paul\"\ndate: \"2022-09-15\"\ncategories: [news, code, analysis]\nimage: \"image.jpg\"\ndraft: true\n---\n\n\nThis is a post with executable code.\n\n## Parametric Plots\n\nPlot function pair (x(u), y(u)). \n\n\n::: {.cell}\n\n```{.r .cell-code}\npacman::p_load(ggplot2)\n\nf <- function(x) sin(2*x)\nxs <- seq(1, 2 * 3.14, 0.01)\nys <- sapply(xs, f)\n\nggplot(data.frame(x = xs, y = ys)) + geom_line(aes(x, y)) + theme_bw()\n```\n\n::: {.cell-output-display}\n![Parametric Plots](index_files/figure-html/fig-parametric2-1.png){#fig-parametric2 width=672}\n:::\n:::\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

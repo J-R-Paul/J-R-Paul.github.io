@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "research",
+    "section": "",
+    "text": "Here I will put some of my research."
+  },
+  {
+    "objectID": "code.html",
+    "href": "code.html",
+    "title": "code",
+    "section": "",
+    "text": "And here is some code."
+  },
+  {
+    "objectID": "code.html#languages",
+    "href": "code.html#languages",
+    "title": "code",
+    "section": "Languages",
+    "text": "Languages\n\nR for working with data\nJulia for working with numbers\nPython for everything else"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Joseph Paul",
+    "section": "",
+    "text": "My research is princiappally focused on the economics of algorithm and machine learning bias. I am also interested in numerical methods generally and bayesian econometrics."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "CV",
+    "section": "",
+    "text": "Heriot-Watt University | Edinburgh, UK | PhD in Economics | Sep 2022 -\nUniversity Of Edinburgh | Edinburgh, UK | MSc in Economics (Econometrics) | Sep 2021 - August 2022\nHeriot-Watt University | Edinburgh, UK | MA in Economics | Sep 2017 - June 2021"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "writing",
+    "section": "",
+    "text": "No matching items"
+  }
+]
