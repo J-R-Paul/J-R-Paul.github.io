@@ -45,7 +45,7 @@ website:
     left: "Copyright 2022, Joseph Paul" 
     right: 
       - icon: github
-        href: https://github.com/
+        href: https://github.com/J-R-Paul
       - icon: twitter 
         href: https://twitter.com/ 
     border: false
@@ -59,7 +59,7 @@ format:
   html:
     theme: 
       light: cosmo #cosmo #cosmo
-      dark: quartz #slate
+      dark: slate
     css: styles.css
     toc: true
 
