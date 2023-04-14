@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Joseph Paul",
+    "section": "",
+    "text": "Hello, I am Joseph Paul, a PhD researcher in Economics at Heriot-Watt University. My research primarily focuses on the economics of algorithm and machine learning bias."
+  },
+  {
     "objectID": "code.html",
     "href": "code.html",
     "title": "code",
@@ -14,11 +21,11 @@
     "text": "Languages\n\nR for working with data\nJulia for working with numbers\nPython for everything else"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Joseph Paul",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "writing",
     "section": "",
-    "text": "My research is princiappally focused on the economics of algorithm and machine learning bias. I am also interested in numerical methods generally and bayesian econometrics."
+    "text": "I will put some writing here when I have some.\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -32,13 +39,6 @@
     "href": "about.html#grants-and-awards",
     "title": "CV",
     "section": "Grants and Awards",
-    "text": "Grants and Awards\nEconomic and Social Research Council full PhD stipend. Through the Scottish Graduate School of Social Sciences.\nWatt Club Medal"
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "writing",
-    "section": "",
-    "text": "No matching items"
+    "text": "Grants and Awards\nEconomic and Social Research Council full PhD stipend. Through the Scottish Graduate School of Social Sciences."
   }
 ]

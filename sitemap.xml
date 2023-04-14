@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/J-R-Paul/J-R-Paul.github.io/code.html</loc>
-    <lastmod>2022-10-13T21:49:55.780Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/J-R-Paul/J-R-Paul.github.io/research.html</loc>
-    <lastmod>2022-10-13T21:49:57.160Z</lastmod>
-  </url>
-  <url>
     <loc>https://github.com/J-R-Paul/J-R-Paul.github.io/index.html</loc>
-    <lastmod>2022-10-13T21:49:57.468Z</lastmod>
+    <lastmod>2023-04-14T10:55:33.911Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/J-R-Paul/J-R-Paul.github.io/about.html</loc>
-    <lastmod>2022-10-13T21:49:57.768Z</lastmod>
+    <loc>https://github.com/J-R-Paul/J-R-Paul.github.io/code.html</loc>
+    <lastmod>2023-04-14T10:55:36.031Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/J-R-Paul/J-R-Paul.github.io/blog.html</loc>
-    <lastmod>2022-10-13T21:49:58.092Z</lastmod>
+    <lastmod>2023-04-14T10:55:36.727Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/J-R-Paul/J-R-Paul.github.io/about.html</loc>
+    <lastmod>2023-04-14T10:55:37.047Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/J-R-Paul/J-R-Paul.github.io/research.html</loc>
+    <lastmod>2023-04-14T10:55:37.407Z</lastmod>
   </url>
 </urlset>
