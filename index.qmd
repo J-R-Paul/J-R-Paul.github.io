@@ -11,7 +11,6 @@ about:
 
 ---
 
-This is the contents of the about page for my blog.
-Hello, my name is Joseph Paul. I am a PhD researcher at Heriot-Watt University studying Economics.
+Hello, I am Joseph Paul, a PhD researcher in Economics at Heriot-Watt University. My research primarily focuses on the economics of algorithm and machine learning bias.
 
-My research is princiappally focused on the economics of algorithm and machine learning bias. I am also interested in numerical methods generally and bayesian econometrics.
+<!-- My research is princiappally focused on the economics of algorithm and machine learning bias. I am also interested in numerical methods generally and bayesian econometrics. -->

@@ -14,7 +14,7 @@ Heriot-Watt University    | Edinburgh, UK | MA in Economics                 | Se
 
 Economic and Social Research Council full PhD stipend. Through the Scottish Graduate School of Social Sciences.
 
-Watt Club Medal 
+<!-- Watt Club Medal  -->
 
 <!-- ## Experience
 
