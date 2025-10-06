@@ -100,54 +100,45 @@
             <h2>Working Papers</h2>
             
             <div class="project-card">
-              <h2><a href="#">Testing for improvements in algorithmic decision making</a></h2>
+              <h2><a href="#">Testing weak dependence and stationarity by Universal Inference</a></h2>
+              <p><em>With Arnab Bhattacharjee and Mark E. Schaffer (2025)</em></p>
               <p>
-              Developing a framework for intelligent resource allocation across cloud and edge infrastructure to optimize performance and energy consumption.
-              </p>
-
-              <div class="tag-pills" style="margin-top: 0.75rem;">
-                <a href="../assets/cloud_edge_slides.pdf" class="tag-pill" style="text-decoration: none; display: inline-flex; align-items: center;">
-                  <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-right: 4px;"><path d="M13 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V9z"></path><polyline points="13 2 13 9 20 9"></polyline></svg>
-                  Slides
-                </a>
-
-                <a href="../assets/cloud_edge_paper.pdf" class="tag-pill" style="text-decoration: none; display: inline-flex; align-items: center;">
-                  <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-right: 4px;"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>
-                  Paper
-                </a>
-
-              </div>
-
-              <div style="margin-bottom: 0.5rem;"></div>
-              <div class="tag-pills">
-              <span class="tag-pill">Algorithmic Fairness</span>
-              <span class="tag-pill">Empirical Welfare Maximization</span>
-              </div>
-            </div>
-            
-            <div class="project-card">
-              <h2><a href="#">Ensembling prediction sets with coverage guarantees via concentration inequalities</a></h2>
-              <p>
-                This paper introduces a novel method for ensembling conformal prediction sets from multiple models via concentration inequalities, ensuring guaranteed overall coverage.
+                We present a sequential Universal Inference (UI) test for detecting strong spatial dependence and non-stationarity in dynamic panel data with expanding dimensions N and T. Starting from a general spatial autoregressive (SAR) model with both contemporaneous and lagged spatial effects, we form incremental likelihood-ratio factors between an unrestricted quasi-MLE and the null of zero contemporaneous and lagged spatial coefficients. The cumulative product is a non-negative martingale with unit mean under the null, yielding an any-time, finite-sample level-α test via Ville’s inequality; inverting it gives finite-sample confidence sets for the SAR parameters. Monte-Carlo evidence shows strong size and power, especially near the unit-root boundary; we outline robust extensions and an asymptotic refinement for exact asymptotic level-α.
               </p>
               <div class="tag-pills">
-                <span class="tag-pill">conformal prediction</span>
-                <span class="tag-pill">ensemble methods</span>
-                <span class="tag-pill">concentration inequalities</span>
+                <span class="tag-pill">universal inference</span>
+                <span class="tag-pill">spatial dependence</span>
+                <span class="tag-pill">stationarity</span>
+                <span class="tag-pill">dynamic panels</span>
               </div>
             </div>
 
             <div class="project-card">
-              <h2><a href="#">Adaptive ensembling of prediction sets in online time series forecasting</a></h2>
+              <h2><a href="#">Uniform certification of fairness in algorithmic policy audits (working title)</a></h2>
               <p>
-                In this paper, I develop an online, adaptive ensemble conformal prediction algorithm for time series forecasting. 
-                The method dynamically updates model coverage parameters and ensemble weights to maintain target coverage guarantees 
-                while adapting to potential distribution shifts.
+                We study the certification problem: with high probability, can we rule out large disparities across any metric–subgroup pair? Let θ<sub>h</sub> be the disparity for pair h and H a possibly large family. We propose a simple sample-splitting procedure that estimates each θ<sub>h</sub> on one split and uses the other to quantify the maximal estimation error across all h ∈ H, delivering a single, finite-sample upper bound on the worst-case disparity max<sub>h</sub> |θ<sub>h</sub>|. The bound is distribution-free, transparent, and computationally light, making it suitable for compliance checks and fairness audits.
+              </p>
+              <p>
+                <em>Connections:</em> relates to multiple testing (Bonferroni/Holm/stepdown), selective inference, and empirical process theory; it synthesizes ghost-sample/symmetrization ideas to provide exact certificates over arbitrary bounded metrics and combinatorial subgroup families.
               </p>
               <div class="tag-pills">
-                <span class="tag-pill">time series forecasting</span>
-                <span class="tag-pill">adaptive ensembling</span>
-                <span class="tag-pill">online learning</span>
+                <span class="tag-pill">algorithmic fairness</span>
+                <span class="tag-pill">uniform inference</span>
+                <span class="tag-pill">multiple testing</span>
+                <span class="tag-pill">policy auditing</span>
+              </div>
+            </div>
+
+            <div class="project-card">
+              <h2><a href="#">Decision Breakdown Frontier: Certifying Policy Robustness to Ambiguity</a></h2>
+              <p>
+                This paper formalizes the decision breakdown frontier (DBF): an interpretable certificate of how much model ambiguity is required to overturn a policy recommendation. Starting from a baseline model P<sub>0</sub> and loss ℓ, we study distributionally robust risk within Wasserstein balls of radius ε and define the decision breakdown radius (DBR) between actions a<sub>1</sub> and a<sub>0</sub> as the largest ε such that the robust risk gap Δ(ε) = V(a<sub>1</sub>; ε) − V(a<sub>0</sub>; ε) ≤ 0. We derive general properties of ε*, provide closed-form expressions under an asymptotically maximally Lipschitz (AML) condition, and give safe lower bounds without AML. We discuss centering, links to identification breakdown frontiers, computation, and inference, with logistic and absolute-deviation illustrations.
+              </p>
+              <div class="tag-pills">
+                <span class="tag-pill">robust decision-making</span>
+                <span class="tag-pill">Wasserstein DRO</span>
+                <span class="tag-pill">breakdown frontier</span>
+                <span class="tag-pill">policy evaluation</span>
               </div>
             </div>
 
